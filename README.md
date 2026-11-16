@@ -59,6 +59,6 @@ The dataset contains customer information, including:
 `Customer Segmentation Dashboard.xlsx`
 
 ## 👨‍💻 Author
-Nil Bhatiya
+Neel Valand
 
 **If you find this project useful, feel free to ⭐ the repository!**
